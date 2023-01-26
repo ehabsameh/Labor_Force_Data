@@ -3,3 +3,6 @@ numpy
 seaborn
 ipympl
 plotly.express
+matplotlib.pyplot
+urllib
+json
